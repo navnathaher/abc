@@ -5,7 +5,7 @@ import static org.junit.Assert.assertEquals;
 import com.qaagility.javaee.*;
 
     @Test
-    Public void testcal() {
+    public void testCal() {
 
 Calcmul testcalmul = new Calcmul();
 Calculator testcaladd= new Calculator();
